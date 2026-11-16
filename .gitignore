@@ -1,0 +1,23 @@
+# Ambientes Python
+.venv/
+Projeto/marimo-env/
+
+# Dados brutos (baixar da figshare; ver README)
+*RAW_left.csv
+*RAW_right.csv
+
+# Temporários e sobras
+__pycache__/
+*.pyc
+__marimo__/
+*.py.txt
+/Projeto.py
+
+# Saídas grandes ou por participante, que o código regenera
+Projeto/resultados_auditoria/
+Projeto/frente2/resultados/etapa2_trials.csv.gz
+Projeto/frente2/resultados/*elegiveis.csv
+Projeto/frente2/resultados/*sinalizacoes.csv
+Projeto/frente2/resultados/*caracteristicas_membro.csv
+Projeto/frente2/resultados/*previsoes.csv
+_para_github/
