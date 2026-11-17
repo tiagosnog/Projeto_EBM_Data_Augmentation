@@ -38,3 +38,22 @@ Para usar outra pasta, defina `FRENTE2_DADOS`; para gravar em outro lugar, `FREN
   em log, essa escala se cancela.
 - Subbandas com os nomes do artigo: ylp4, yhp4, yhp3, yhp2, yhp1.
 - Sinalizações de integridade (sexo, classe, lado, idade × data, altura) não excluem ninguém.
+
+## Versões dos atributos clássicos (B1)
+
+- **Versão 2 (16/11/2026, atual):** 12 atributos; V com dois picos e vale, AP com frenagem e propulsão separadas.
+- **Versão 1 (02/11/2026):** 10 atributos (usava `V_min` e `AP_impulso`). Resultados arquivados em `resultados_B1_v1/`.
+
+## Análises das hipóteses (17/11/2026)
+
+Rodar a partir da pasta `Projeto`, depois das etapas 1 a 3 (cada script grava em `frente2/resultados`):
+
+| Script | O que faz | Saída |
+| --- | --- | --- |
+| `frente2/analises/h2_pareado.py` | H2: AUC por conjunto e diferença pareada B2−B1, B3−B1, B3−B2 (bootstrap de participantes; logística com C = 1, 0,1 e 0,01, e floresta) | `h2_auc_por_conjunto.csv`, `h2_diferencas_pareadas.csv` |
+| `frente2/analises/controle_sorteio.py` | H3′: controle negativo com o membro A sorteado (73/139 esquerdo), 100 sorteios | `controle_negativo_A_aleatorio.csv` |
+| `frente2/analises/efeito_de_lado.py` | Efeito de lado nos saudáveis por família de atributos e transferência entre as bases | `efeito_de_lado_por_familia.csv` |
+| `frente2/analises/dz_e_variabilidade.py` | dz por atributo nos saudáveis; variabilidade entre trials em K_R | `efeito_de_lado_dz_por_atributo.csv`, `variabilidade_trials_K_R.csv` |
+
+Os scripts levam alguns minutos (o `h2_pareado.py` leva cerca de 4).
+

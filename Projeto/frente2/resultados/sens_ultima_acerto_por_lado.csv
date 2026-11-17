@@ -1,13 +1,13 @@
 analise,calibracao,lado_afetado,n,acerto
 "[Última sessão] Primeira passada, K_R (V+AP+ML)",bruto,left,68,0.7794
-"[Última sessão] Primeira passada, K_R (V+AP+ML)",bruto,right,56,0.8214
-"[Última sessão] Primeira passada, K_R (V+AP+ML)",calibrado pelos HC da GaitRec,left,68,0.7353
+"[Última sessão] Primeira passada, K_R (V+AP+ML)",bruto,right,56,0.8571
+"[Última sessão] Primeira passada, K_R (V+AP+ML)",calibrado pelos HC da GaitRec,left,68,0.7206
 "[Última sessão] Primeira passada, K_R (V+AP+ML)",calibrado pelos HC da GaitRec,right,56,0.8393
-"[Última sessão] Primeira passada, K_P (V+AP+ML)",bruto,left,29,0.8276
-"[Última sessão] Primeira passada, K_P (V+AP+ML)",bruto,right,24,0.8333
+"[Última sessão] Primeira passada, K_P (V+AP+ML)",bruto,left,29,0.6897
+"[Última sessão] Primeira passada, K_P (V+AP+ML)",bruto,right,24,0.875
 "[Última sessão] Primeira passada, K_P (V+AP+ML)",calibrado pelos HC da GaitRec,left,29,0.8276
 "[Última sessão] Primeira passada, K_P (V+AP+ML)",calibrado pelos HC da GaitRec,right,24,0.8333
 "[Última sessão] Primeira passada, K_F (V+AP+ML)",bruto,left,120,0.9333
-"[Última sessão] Primeira passada, K_F (V+AP+ML)",bruto,right,96,0.875
-"[Última sessão] Primeira passada, K_F (V+AP+ML)",calibrado pelos HC da GaitRec,left,120,0.925
-"[Última sessão] Primeira passada, K_F (V+AP+ML)",calibrado pelos HC da GaitRec,right,96,0.8958
+"[Última sessão] Primeira passada, K_F (V+AP+ML)",bruto,right,96,0.8958
+"[Última sessão] Primeira passada, K_F (V+AP+ML)",calibrado pelos HC da GaitRec,left,120,0.9167
+"[Última sessão] Primeira passada, K_F (V+AP+ML)",calibrado pelos HC da GaitRec,right,96,0.9167

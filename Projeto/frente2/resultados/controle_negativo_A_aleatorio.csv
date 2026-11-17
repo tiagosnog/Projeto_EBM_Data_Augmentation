@@ -1,0 +1,13 @@
+base,atributos,atribuicao_de_A,auc,p2.5,p97.5,max
+GaitRec,B1 clássico,A = esquerdo (fixo),0.755,,,
+GaitRec,B1 clássico,A aleatório (73/139 esquerdo),0.498,0.376,0.622,0.653
+GaitRec,B2 wavelet,A = esquerdo (fixo),0.704,,,
+GaitRec,B2 wavelet,A aleatório (73/139 esquerdo),0.506,0.399,0.607,0.634
+GaitRec,B3 clássico + wavelet,A = esquerdo (fixo),0.769,,,
+GaitRec,B3 clássico + wavelet,A aleatório (73/139 esquerdo),0.507,0.402,0.606,0.615
+Gutenberg,B1 clássico,A = esquerdo (fixo),0.762,,,
+Gutenberg,B1 clássico,A aleatório (73/139 esquerdo),0.492,0.385,0.594,0.606
+Gutenberg,B2 wavelet,A = esquerdo (fixo),0.776,,,
+Gutenberg,B2 wavelet,A aleatório (73/139 esquerdo),0.501,0.404,0.581,0.602
+Gutenberg,B3 clássico + wavelet,A = esquerdo (fixo),0.845,,,
+Gutenberg,B3 clássico + wavelet,A aleatório (73/139 esquerdo),0.5,0.402,0.584,0.615

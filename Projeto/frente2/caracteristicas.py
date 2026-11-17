@@ -10,7 +10,19 @@ Regras herdadas da análise v6 do artigo:
 
 Novidades da Frente 2: sinal dividido pelo peso corporal da sessão
 (BODY_WEIGHT, em N), energia e energia relativa por subbanda e atributos
-clássicos (máximo, mínimo, impulso e duração do apoio).
+clássicos (picos, vale, impulsos e duração do apoio).
+
+Atributos clássicos (versão 2, 16/11/2026, aprovada pelo orientador):
+
+* V: primeiro pico (resposta à carga), segundo pico (impulsão) e vale entre
+  os dois (meio do apoio); o primeiro pico é o máximo da 1ª metade do apoio,
+  o segundo o máximo da 2ª metade e o vale é o mínimo entre eles;
+* AP (anterior positivo): pico e impulso de frenagem (parte negativa) e pico e
+  impulso de propulsão (parte positiva), todos em módulo;
+* ML: máximo, mínimo e impulso líquido, como antes.
+
+A versão 1 usava o mínimo de V (que só mede o limiar de recorte de 25 N) e o
+impulso líquido de AP (quase nulo, pois frenagem e propulsão se compensam).
 """
 
 from __future__ import annotations
@@ -54,7 +66,42 @@ def atributos_sinal(x: np.ndarray, comp: str) -> dict[str, float]:
     f[f"{comp}_impulso"] = float(x.sum() / cfg.FS)
     f[f"{comp}_media"] = float(x.mean())
     f[f"{comp}_n"] = len(x)
+    if comp == "V":
+        f.update(picos_e_vale_vertical(x))
+    elif comp == "AP":
+        f.update(frenagem_e_propulsao(x))
     return f
+
+
+def picos_e_vale_vertical(x: np.ndarray) -> dict[str, float]:
+    """Dois picos e o vale da força vertical (em peso corporal).
+
+    Primeiro pico = máximo da primeira metade do apoio; segundo pico = máximo
+    da segunda metade; vale = mínimo entre os dois. V_vale_prof (menor pico
+    menos o vale) é só controle de qualidade: perto de zero indica apoio sem
+    dois picos distintos.
+    """
+    meio = len(x) // 2
+    i1 = int(np.argmax(x[:meio]))
+    i2 = meio + int(np.argmax(x[meio:]))
+    pico1, pico2 = float(x[i1]), float(x[i2])
+    vale = float(x[i1 : i2 + 1].min())
+    return {
+        "V_pico1": pico1,
+        "V_pico2": pico2,
+        "V_vale": vale,
+        "V_vale_prof": min(pico1, pico2) - vale,
+    }
+
+
+def frenagem_e_propulsao(x: np.ndarray) -> dict[str, float]:
+    """Pico e impulso de frenagem (AP < 0) e de propulsão (AP > 0), em módulo."""
+    return {
+        "AP_pico_freio": float(max(0.0, -x.min())),
+        "AP_pico_prop": float(max(0.0, x.max())),
+        "AP_imp_freio": float(-x[x < 0].sum() / cfg.FS),
+        "AP_imp_prop": float(x[x > 0].sum() / cfg.FS),
+    }
 
 
 def _ler_sessoes(arquivo, sessoes: set, tamanho_bloco: int = 4000):

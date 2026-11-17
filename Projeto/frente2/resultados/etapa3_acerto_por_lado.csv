@@ -1,13 +1,13 @@
 analise,calibracao,lado_afetado,n,acerto
-"Primeira passada, K_R (V+AP+ML)",bruto,left,73,0.7671
-"Primeira passada, K_R (V+AP+ML)",bruto,right,66,0.8485
-"Primeira passada, K_R (V+AP+ML)",calibrado pelos HC da GaitRec,left,73,0.7671
-"Primeira passada, K_R (V+AP+ML)",calibrado pelos HC da GaitRec,right,66,0.8485
-"Primeira passada, K_P (V+AP+ML)",bruto,left,34,0.7941
-"Primeira passada, K_P (V+AP+ML)",bruto,right,26,0.9231
-"Primeira passada, K_P (V+AP+ML)",calibrado pelos HC da GaitRec,left,34,0.7647
-"Primeira passada, K_P (V+AP+ML)",calibrado pelos HC da GaitRec,right,26,0.8846
-"Primeira passada, K_F (V+AP+ML)",bruto,left,130,0.9154
-"Primeira passada, K_F (V+AP+ML)",bruto,right,102,0.8922
-"Primeira passada, K_F (V+AP+ML)",calibrado pelos HC da GaitRec,left,130,0.9
-"Primeira passada, K_F (V+AP+ML)",calibrado pelos HC da GaitRec,right,102,0.902
+"Primeira passada, K_R (V+AP+ML)",bruto,left,73,0.7945
+"Primeira passada, K_R (V+AP+ML)",bruto,right,66,0.8788
+"Primeira passada, K_R (V+AP+ML)",calibrado pelos HC da GaitRec,left,73,0.8082
+"Primeira passada, K_R (V+AP+ML)",calibrado pelos HC da GaitRec,right,66,0.8636
+"Primeira passada, K_P (V+AP+ML)",bruto,left,34,0.8235
+"Primeira passada, K_P (V+AP+ML)",bruto,right,26,0.8846
+"Primeira passada, K_P (V+AP+ML)",calibrado pelos HC da GaitRec,left,34,0.8235
+"Primeira passada, K_P (V+AP+ML)",calibrado pelos HC da GaitRec,right,26,0.8462
+"Primeira passada, K_F (V+AP+ML)",bruto,left,130,0.9077
+"Primeira passada, K_F (V+AP+ML)",bruto,right,102,0.9118
+"Primeira passada, K_F (V+AP+ML)",calibrado pelos HC da GaitRec,left,130,0.9077
+"Primeira passada, K_F (V+AP+ML)",calibrado pelos HC da GaitRec,right,102,0.9216

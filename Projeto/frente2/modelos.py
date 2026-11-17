@@ -37,11 +37,16 @@ except ImportError as erro:  # pragma: no cover
 from . import config as cfg
 
 METRICAS_WAVELET = ("E", "MSWC", "Erel")
-CLASSICOS = ("max", "min", "impulso")
+# Atributos clássicos (B1, versão 2): ver o docstring de caracteristicas.py
+CLASSICOS = {
+    "V": ("pico1", "vale", "pico2", "impulso"),
+    "AP": ("pico_freio", "pico_prop", "imp_freio", "imp_prop"),
+    "ML": ("max", "min", "impulso"),
+}
 
 
 def conjuntos_atributos(componentes: list[str]) -> dict[str, list[str]]:
-    b1 = [f"{c}_{s}" for c in componentes for s in CLASSICOS] + ["dur_s"]
+    b1 = [f"{c}_{s}" for c in componentes for s in CLASSICOS[c]] + ["dur_s"]
     b2 = [f"{c}_{b}_{m}" for c in componentes for b in cfg.SUBBANDAS for m in METRICAS_WAVELET]
     return {"B1 clássico": b1, "B2 wavelet": b2, "B3 clássico + wavelet": b1 + b2}
 

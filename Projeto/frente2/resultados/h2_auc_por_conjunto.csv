@@ -1,0 +1,37 @@
+grupo,modelo,atributos,n,auc,ic_inf,ic_sup
+K_R,logística C=1,B1 clássico,139,0.916,0.8628,0.9625
+K_R,logística C=1,B2 wavelet,139,0.8951,0.8369,0.9468
+K_R,logística C=1,B3 clássico + wavelet,139,0.8933,0.8345,0.9485
+K_R,"logística C=0,1",B1 clássico,139,0.9244,0.8736,0.9691
+K_R,"logística C=0,1",B2 wavelet,139,0.9151,0.8622,0.9628
+K_R,"logística C=0,1",B3 clássico + wavelet,139,0.9172,0.8638,0.9657
+K_R,"logística C=0,01",B1 clássico,139,0.9273,0.8761,0.9711
+K_R,"logística C=0,01",B2 wavelet,139,0.9079,0.8525,0.9554
+K_R,"logística C=0,01",B3 clássico + wavelet,139,0.9229,0.8714,0.9678
+K_R,floresta,B1 clássico,139,0.9237,0.8717,0.9697
+K_R,floresta,B2 wavelet,139,0.9219,0.8667,0.9707
+K_R,floresta,B3 clássico + wavelet,139,0.922,0.868,0.9697
+K_P,logística C=1,B1 clássico,60,0.9289,0.8519,0.9875
+K_P,logística C=1,B2 wavelet,60,0.8878,0.7944,0.9597
+K_P,logística C=1,B3 clássico + wavelet,60,0.9019,0.8103,0.9728
+K_P,"logística C=0,1",B1 clássico,60,0.9428,0.87,0.9944
+K_P,"logística C=0,1",B2 wavelet,60,0.9061,0.8156,0.9717
+K_P,"logística C=0,1",B3 clássico + wavelet,60,0.9181,0.8308,0.9844
+K_P,"logística C=0,01",B1 clássico,60,0.9472,0.8758,0.9961
+K_P,"logística C=0,01",B2 wavelet,60,0.9092,0.8236,0.9714
+K_P,"logística C=0,01",B3 clássico + wavelet,60,0.9317,0.8547,0.99
+K_P,floresta,B1 clássico,60,0.9333,0.8517,0.9931
+K_P,floresta,B2 wavelet,60,0.9269,0.8372,0.9947
+K_P,floresta,B3 clássico + wavelet,60,0.9261,0.8342,0.9947
+K_F,logística C=1,B1 clássico,232,0.9648,0.9385,0.9855
+K_F,logística C=1,B2 wavelet,232,0.9572,0.9269,0.9801
+K_F,logística C=1,B3 clássico + wavelet,232,0.9581,0.9284,0.9807
+K_F,"logística C=0,1",B1 clássico,232,0.965,0.9388,0.9853
+K_F,"logística C=0,1",B2 wavelet,232,0.9574,0.9288,0.9803
+K_F,"logística C=0,1",B3 clássico + wavelet,232,0.9604,0.9324,0.9824
+K_F,"logística C=0,01",B1 clássico,232,0.9653,0.9401,0.9844
+K_F,"logística C=0,01",B2 wavelet,232,0.9534,0.9237,0.9769
+K_F,"logística C=0,01",B3 clássico + wavelet,232,0.9618,0.9351,0.9829
+K_F,floresta,B1 clássico,232,0.9589,0.9313,0.9818
+K_F,floresta,B2 wavelet,232,0.9596,0.9306,0.9834
+K_F,floresta,B3 clássico + wavelet,232,0.9626,0.9364,0.9845

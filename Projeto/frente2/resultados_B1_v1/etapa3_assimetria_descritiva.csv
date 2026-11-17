@@ -1,0 +1,276 @@
+analise,atributo,media_delta,dp_delta,dz
+"Controle negativo, GaitRec HC (V+AP+ML)",V_max,-0.0046,0.0273,-0.1687
+"Controle negativo, GaitRec HC (V+AP+ML)",V_min,0.0,0.0,0.0747
+"Controle negativo, GaitRec HC (V+AP+ML)",V_impulso,-0.0011,0.0106,-0.1018
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_max,0.0002,0.0154,0.0161
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_min,0.0012,0.0192,0.0648
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_impulso,0.0007,0.0054,0.1382
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_max,0.0015,0.0086,0.1787
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_min,0.0062,0.0134,0.4653
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_impulso,0.0004,0.0029,0.1306
+"Controle negativo, GaitRec HC (V+AP+ML)",dur_s,-0.0016,0.0089,-0.1809
+"Controle negativo, GaitRec HC (V+AP+ML)",V_ylp4_E,-0.0022,0.0306,-0.0727
+"Controle negativo, GaitRec HC (V+AP+ML)",V_ylp4_MSWC,-0.001,0.0286,-0.0335
+"Controle negativo, GaitRec HC (V+AP+ML)",V_ylp4_Erel,0.0,0.0007,0.0283
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp4_E,0.0065,0.2669,0.0243
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp4_MSWC,0.0073,0.267,0.0273
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp4_Erel,0.0077,0.2608,0.0295
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp3_E,0.045,0.2689,0.1674
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp3_MSWC,0.0472,0.2697,0.1752
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp3_Erel,0.0466,0.2599,0.1795
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp2_E,0.0483,0.3836,0.1258
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp2_MSWC,0.0503,0.3828,0.1315
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp2_Erel,0.0501,0.3756,0.1335
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp1_E,0.0321,0.3544,0.0907
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp1_MSWC,0.0344,0.354,0.0973
+"Controle negativo, GaitRec HC (V+AP+ML)",V_yhp1_Erel,0.0337,0.3506,0.0962
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_ylp4_E,-0.0135,0.1,-0.1348
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_ylp4_MSWC,-0.0123,0.0968,-0.1275
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_ylp4_Erel,-0.0008,0.0058,-0.1297
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp4_E,0.0096,0.2912,0.0329
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp4_MSWC,0.0109,0.2907,0.0376
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp4_Erel,0.0243,0.2845,0.0853
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp3_E,0.0509,0.3029,0.168
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp3_MSWC,0.0529,0.3035,0.1742
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp3_Erel,0.0613,0.2932,0.2089
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp2_E,0.0753,0.4377,0.1721
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp2_MSWC,0.0774,0.4368,0.1772
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp2_Erel,0.0862,0.4187,0.2059
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp1_E,0.0982,0.3541,0.2772
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp1_MSWC,0.1001,0.3543,0.2827
+"Controle negativo, GaitRec HC (V+AP+ML)",AP_yhp1_Erel,0.1096,0.3608,0.3039
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_ylp4_E,-0.015,0.2483,-0.0604
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_ylp4_MSWC,-0.014,0.2485,-0.0564
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_ylp4_Erel,0.0104,0.0348,0.2979
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp4_E,-0.1547,0.4182,-0.37
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp4_MSWC,-0.1532,0.4181,-0.3663
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp4_Erel,-0.1255,0.4441,-0.2825
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp3_E,-0.1026,0.4855,-0.2112
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp3_MSWC,-0.1,0.4857,-0.2059
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp3_Erel,-0.0735,0.4812,-0.1527
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp2_E,-0.0383,0.4452,-0.086
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp2_MSWC,-0.0353,0.4466,-0.079
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp2_Erel,-0.0106,0.4812,-0.022
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp1_E,0.0725,0.3717,0.1951
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp1_MSWC,0.0751,0.3732,0.2013
+"Controle negativo, GaitRec HC (V+AP+ML)",ML_yhp1_Erel,0.1094,0.4522,0.2418
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_max,0.0031,0.044,0.0697
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_min,-0.0,0.0,-0.1029
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_impulso,0.0046,0.0128,0.3613
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_max,0.003,0.0255,0.1195
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_min,-0.0008,0.0298,-0.0273
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_impulso,0.0014,0.0094,0.1479
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_max,0.0016,0.0119,0.1365
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_min,0.0018,0.0154,0.1194
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_impulso,0.0001,0.0043,0.0337
+"Controle negativo, Gutenberg HC (V+AP+ML)",dur_s,0.0033,0.0131,0.2484
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_ylp4_E,0.0176,0.0466,0.3775
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_ylp4_MSWC,0.0148,0.0474,0.3121
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_ylp4_Erel,-0.0002,0.0014,-0.1494
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp4_E,0.0002,0.3444,0.0004
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp4_MSWC,-0.0032,0.3439,-0.0093
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp4_Erel,-0.0174,0.3382,-0.0514
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp3_E,0.041,0.2552,0.1607
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp3_MSWC,0.037,0.26,0.1425
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp3_Erel,0.0235,0.2351,0.0998
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp2_E,0.073,0.2994,0.2437
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp2_MSWC,0.0682,0.3048,0.2237
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp2_Erel,0.0553,0.2779,0.199
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp1_E,0.1435,0.4986,0.2879
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp1_MSWC,0.1385,0.5053,0.2741
+"Controle negativo, Gutenberg HC (V+AP+ML)",V_yhp1_Erel,0.1258,0.484,0.2599
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_ylp4_E,0.0244,0.121,0.2017
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_ylp4_MSWC,0.0216,0.1194,0.1807
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_ylp4_Erel,0.0007,0.0091,0.0768
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp4_E,-0.0054,0.3615,-0.0148
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp4_MSWC,-0.0087,0.3657,-0.0238
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp4_Erel,-0.0289,0.3441,-0.0838
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp3_E,0.0494,0.4061,0.1216
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp3_MSWC,0.0453,0.4092,0.1108
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp3_Erel,0.026,0.3882,0.0669
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp2_E,0.105,0.5853,0.1795
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp2_MSWC,0.1003,0.5878,0.1706
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp2_Erel,0.0812,0.5664,0.1433
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp1_E,0.1446,0.6234,0.232
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp1_MSWC,0.1394,0.625,0.223
+"Controle negativo, Gutenberg HC (V+AP+ML)",AP_yhp1_Erel,0.121,0.593,0.2041
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_ylp4_E,0.001,0.2932,0.0033
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_ylp4_MSWC,-0.0018,0.2961,-0.0061
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_ylp4_Erel,0.0008,0.0216,0.0374
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp4_E,0.0252,0.4401,0.0573
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp4_MSWC,0.0227,0.4406,0.0515
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp4_Erel,0.0208,0.4548,0.0458
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp3_E,-0.1017,0.5089,-0.1999
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp3_MSWC,-0.1058,0.5095,-0.2077
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp3_Erel,-0.1029,0.4649,-0.2213
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp2_E,-0.0146,0.5903,-0.0247
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp2_MSWC,-0.0194,0.5911,-0.0327
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp2_Erel,-0.0192,0.5196,-0.0369
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp1_E,0.1299,0.7586,0.1712
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp1_MSWC,0.1249,0.7615,0.1641
+"Controle negativo, Gutenberg HC (V+AP+ML)",ML_yhp1_Erel,0.1302,0.692,0.1881
+"Primeira passada, K_R (V+AP+ML)",V_max,-0.0423,0.0673,-0.6276
+"Primeira passada, K_R (V+AP+ML)",V_min,-0.0,0.0,-0.0595
+"Primeira passada, K_R (V+AP+ML)",V_impulso,-0.0403,0.0531,-0.7587
+"Primeira passada, K_R (V+AP+ML)",AP_max,-0.0033,0.0243,-0.1357
+"Primeira passada, K_R (V+AP+ML)",AP_min,0.0279,0.0401,0.6947
+"Primeira passada, K_R (V+AP+ML)",AP_impulso,0.0032,0.0096,0.3324
+"Primeira passada, K_R (V+AP+ML)",ML_max,-0.0017,0.0081,-0.2116
+"Primeira passada, K_R (V+AP+ML)",ML_min,0.0068,0.0157,0.4333
+"Primeira passada, K_R (V+AP+ML)",ML_impulso,0.0,0.0027,0.0038
+"Primeira passada, K_R (V+AP+ML)",dur_s,-0.0235,0.0341,-0.6899
+"Primeira passada, K_R (V+AP+ML)",V_ylp4_E,-0.0934,0.1188,-0.7859
+"Primeira passada, K_R (V+AP+ML)",V_ylp4_MSWC,-0.0741,0.0982,-0.7547
+"Primeira passada, K_R (V+AP+ML)",V_ylp4_Erel,0.0002,0.001,0.2518
+"Primeira passada, K_R (V+AP+ML)",V_yhp4_E,-0.233,0.5889,-0.3956
+"Primeira passada, K_R (V+AP+ML)",V_yhp4_MSWC,-0.2148,0.5774,-0.372
+"Primeira passada, K_R (V+AP+ML)",V_yhp4_Erel,-0.1381,0.5164,-0.2675
+"Primeira passada, K_R (V+AP+ML)",V_yhp3_E,-0.2369,0.5715,-0.4146
+"Primeira passada, K_R (V+AP+ML)",V_yhp3_MSWC,-0.2142,0.5555,-0.3857
+"Primeira passada, K_R (V+AP+ML)",V_yhp3_Erel,-0.1436,0.4898,-0.2932
+"Primeira passada, K_R (V+AP+ML)",V_yhp2_E,-0.2928,0.5961,-0.4912
+"Primeira passada, K_R (V+AP+ML)",V_yhp2_MSWC,-0.2674,0.5819,-0.4595
+"Primeira passada, K_R (V+AP+ML)",V_yhp2_Erel,-0.2005,0.5444,-0.3684
+"Primeira passada, K_R (V+AP+ML)",V_yhp1_E,-0.0899,0.5751,-0.1563
+"Primeira passada, K_R (V+AP+ML)",V_yhp1_MSWC,-0.0619,0.5648,-0.1096
+"Primeira passada, K_R (V+AP+ML)",V_yhp1_Erel,0.0041,0.525,0.0078
+"Primeira passada, K_R (V+AP+ML)",AP_ylp4_E,-0.1869,0.2595,-0.7203
+"Primeira passada, K_R (V+AP+ML)",AP_ylp4_MSWC,-0.1682,0.2389,-0.7038
+"Primeira passada, K_R (V+AP+ML)",AP_ylp4_Erel,-0.0008,0.007,-0.1111
+"Primeira passada, K_R (V+AP+ML)",AP_yhp4_E,-0.2112,0.5424,-0.3894
+"Primeira passada, K_R (V+AP+ML)",AP_yhp4_MSWC,-0.1921,0.533,-0.3604
+"Primeira passada, K_R (V+AP+ML)",AP_yhp4_Erel,-0.0141,0.4939,-0.0285
+"Primeira passada, K_R (V+AP+ML)",AP_yhp3_E,-0.1029,0.5453,-0.1886
+"Primeira passada, K_R (V+AP+ML)",AP_yhp3_MSWC,-0.0796,0.5323,-0.1496
+"Primeira passada, K_R (V+AP+ML)",AP_yhp3_Erel,0.0812,0.4913,0.1653
+"Primeira passada, K_R (V+AP+ML)",AP_yhp2_E,-0.1457,0.6028,-0.2417
+"Primeira passada, K_R (V+AP+ML)",AP_yhp2_MSWC,-0.1185,0.5914,-0.2004
+"Primeira passada, K_R (V+AP+ML)",AP_yhp2_Erel,0.04,0.5542,0.0722
+"Primeira passada, K_R (V+AP+ML)",AP_yhp1_E,-0.1523,0.5909,-0.2578
+"Primeira passada, K_R (V+AP+ML)",AP_yhp1_MSWC,-0.1259,0.5816,-0.2165
+"Primeira passada, K_R (V+AP+ML)",AP_yhp1_Erel,0.0318,0.5528,0.0576
+"Primeira passada, K_R (V+AP+ML)",ML_ylp4_E,-0.0577,0.2691,-0.2146
+"Primeira passada, K_R (V+AP+ML)",ML_ylp4_MSWC,-0.0391,0.2699,-0.1449
+"Primeira passada, K_R (V+AP+ML)",ML_ylp4_Erel,0.01,0.0318,0.313
+"Primeira passada, K_R (V+AP+ML)",ML_yhp4_E,-0.3424,0.6378,-0.5368
+"Primeira passada, K_R (V+AP+ML)",ML_yhp4_MSWC,-0.323,0.6298,-0.5128
+"Primeira passada, K_R (V+AP+ML)",ML_yhp4_Erel,-0.2702,0.6124,-0.4412
+"Primeira passada, K_R (V+AP+ML)",ML_yhp3_E,-0.224,0.7244,-0.3093
+"Primeira passada, K_R (V+AP+ML)",ML_yhp3_MSWC,-0.2009,0.7152,-0.2809
+"Primeira passada, K_R (V+AP+ML)",ML_yhp3_Erel,-0.1355,0.6714,-0.2019
+"Primeira passada, K_R (V+AP+ML)",ML_yhp2_E,-0.0438,0.6562,-0.0668
+"Primeira passada, K_R (V+AP+ML)",ML_yhp2_MSWC,-0.0183,0.6479,-0.0283
+"Primeira passada, K_R (V+AP+ML)",ML_yhp2_Erel,0.0443,0.6975,0.0635
+"Primeira passada, K_R (V+AP+ML)",ML_yhp1_E,-0.0439,0.6957,-0.0632
+"Primeira passada, K_R (V+AP+ML)",ML_yhp1_MSWC,-0.0165,0.6904,-0.0239
+"Primeira passada, K_R (V+AP+ML)",ML_yhp1_Erel,0.0403,0.7408,0.0543
+"Primeira passada, K_P (V+AP+ML)",V_max,-0.0519,0.0529,-0.9806
+"Primeira passada, K_P (V+AP+ML)",V_min,-0.0,0.0,-0.2157
+"Primeira passada, K_P (V+AP+ML)",V_impulso,-0.0428,0.044,-0.9741
+"Primeira passada, K_P (V+AP+ML)",AP_max,-0.0078,0.0232,-0.3347
+"Primeira passada, K_P (V+AP+ML)",AP_min,0.0308,0.0341,0.903
+"Primeira passada, K_P (V+AP+ML)",AP_impulso,0.0049,0.0111,0.4438
+"Primeira passada, K_P (V+AP+ML)",ML_max,-0.0015,0.0077,-0.195
+"Primeira passada, K_P (V+AP+ML)",ML_min,0.0019,0.0151,0.1256
+"Primeira passada, K_P (V+AP+ML)",ML_impulso,-0.0005,0.003,-0.1581
+"Primeira passada, K_P (V+AP+ML)",dur_s,-0.0233,0.0272,-0.8573
+"Primeira passada, K_P (V+AP+ML)",V_ylp4_E,-0.105,0.0978,-1.0738
+"Primeira passada, K_P (V+AP+ML)",V_ylp4_MSWC,-0.0834,0.0796,-1.0477
+"Primeira passada, K_P (V+AP+ML)",V_ylp4_Erel,0.0005,0.0011,0.4239
+"Primeira passada, K_P (V+AP+ML)",V_yhp4_E,-0.2982,0.4775,-0.6245
+"Primeira passada, K_P (V+AP+ML)",V_yhp4_MSWC,-0.2768,0.4701,-0.5888
+"Primeira passada, K_P (V+AP+ML)",V_yhp4_Erel,-0.1903,0.4289,-0.4437
+"Primeira passada, K_P (V+AP+ML)",V_yhp3_E,-0.276,0.5299,-0.5208
+"Primeira passada, K_P (V+AP+ML)",V_yhp3_MSWC,-0.2508,0.5171,-0.4849
+"Primeira passada, K_P (V+AP+ML)",V_yhp3_Erel,-0.1681,0.47,-0.3576
+"Primeira passada, K_P (V+AP+ML)",V_yhp2_E,-0.0895,0.538,-0.1664
+"Primeira passada, K_P (V+AP+ML)",V_yhp2_MSWC,-0.0616,0.5317,-0.1158
+"Primeira passada, K_P (V+AP+ML)",V_yhp2_Erel,0.0157,0.5105,0.0307
+"Primeira passada, K_P (V+AP+ML)",V_yhp1_E,-0.2276,0.6056,-0.3758
+"Primeira passada, K_P (V+AP+ML)",V_yhp1_MSWC,-0.1967,0.5934,-0.3314
+"Primeira passada, K_P (V+AP+ML)",V_yhp1_Erel,-0.1193,0.5663,-0.2107
+"Primeira passada, K_P (V+AP+ML)",AP_ylp4_E,-0.2315,0.2242,-1.0327
+"Primeira passada, K_P (V+AP+ML)",AP_ylp4_MSWC,-0.2102,0.2069,-1.0163
+"Primeira passada, K_P (V+AP+ML)",AP_ylp4_Erel,-0.0017,0.0083,-0.2079
+"Primeira passada, K_P (V+AP+ML)",AP_yhp4_E,-0.1879,0.4422,-0.425
+"Primeira passada, K_P (V+AP+ML)",AP_yhp4_MSWC,-0.1659,0.4406,-0.3765
+"Primeira passada, K_P (V+AP+ML)",AP_yhp4_Erel,0.0423,0.4806,0.088
+"Primeira passada, K_P (V+AP+ML)",AP_yhp3_E,-0.1154,0.4878,-0.2366
+"Primeira passada, K_P (V+AP+ML)",AP_yhp3_MSWC,-0.09,0.478,-0.1882
+"Primeira passada, K_P (V+AP+ML)",AP_yhp3_Erel,0.1199,0.4273,0.2807
+"Primeira passada, K_P (V+AP+ML)",AP_yhp2_E,-0.0283,0.6082,-0.0466
+"Primeira passada, K_P (V+AP+ML)",AP_yhp2_MSWC,0.0014,0.5985,0.0023
+"Primeira passada, K_P (V+AP+ML)",AP_yhp2_Erel,0.2021,0.5408,0.3737
+"Primeira passada, K_P (V+AP+ML)",AP_yhp1_E,-0.1182,0.6528,-0.181
+"Primeira passada, K_P (V+AP+ML)",AP_yhp1_MSWC,-0.087,0.6438,-0.1352
+"Primeira passada, K_P (V+AP+ML)",AP_yhp1_Erel,0.1186,0.5799,0.2045
+"Primeira passada, K_P (V+AP+ML)",ML_ylp4_E,-0.0291,0.2623,-0.1109
+"Primeira passada, K_P (V+AP+ML)",ML_ylp4_MSWC,-0.008,0.2614,-0.0307
+"Primeira passada, K_P (V+AP+ML)",ML_ylp4_Erel,0.0027,0.0313,0.0867
+"Primeira passada, K_P (V+AP+ML)",ML_yhp4_E,-0.0683,0.5193,-0.1315
+"Primeira passada, K_P (V+AP+ML)",ML_yhp4_MSWC,-0.0464,0.5156,-0.0899
+"Primeira passada, K_P (V+AP+ML)",ML_yhp4_Erel,-0.0312,0.513,-0.0609
+"Primeira passada, K_P (V+AP+ML)",ML_yhp3_E,-0.1459,0.6282,-0.2322
+"Primeira passada, K_P (V+AP+ML)",ML_yhp3_MSWC,-0.1202,0.6281,-0.1913
+"Primeira passada, K_P (V+AP+ML)",ML_yhp3_Erel,-0.1097,0.5495,-0.1997
+"Primeira passada, K_P (V+AP+ML)",ML_yhp2_E,-0.1103,0.6007,-0.1835
+"Primeira passada, K_P (V+AP+ML)",ML_yhp2_MSWC,-0.0815,0.6003,-0.1357
+"Primeira passada, K_P (V+AP+ML)",ML_yhp2_Erel,-0.0721,0.5618,-0.1283
+"Primeira passada, K_P (V+AP+ML)",ML_yhp1_E,-0.1492,0.6417,-0.2325
+"Primeira passada, K_P (V+AP+ML)",ML_yhp1_MSWC,-0.1202,0.636,-0.1891
+"Primeira passada, K_P (V+AP+ML)",ML_yhp1_Erel,-0.0765,0.6267,-0.1221
+"Primeira passada, K_F (V+AP+ML)",V_max,-0.0589,0.0577,-1.0217
+"Primeira passada, K_F (V+AP+ML)",V_min,-0.0,0.0,-0.1728
+"Primeira passada, K_F (V+AP+ML)",V_impulso,-0.0532,0.0497,-1.071
+"Primeira passada, K_F (V+AP+ML)",AP_max,-0.0087,0.0295,-0.2962
+"Primeira passada, K_F (V+AP+ML)",AP_min,0.029,0.0363,0.7995
+"Primeira passada, K_F (V+AP+ML)",AP_impulso,0.0008,0.0108,0.0781
+"Primeira passada, K_F (V+AP+ML)",ML_max,-0.0022,0.0094,-0.2338
+"Primeira passada, K_F (V+AP+ML)",ML_min,0.0128,0.0174,0.7388
+"Primeira passada, K_F (V+AP+ML)",ML_impulso,0.0005,0.003,0.1534
+"Primeira passada, K_F (V+AP+ML)",dur_s,-0.0287,0.0338,-0.8488
+"Primeira passada, K_F (V+AP+ML)",V_ylp4_E,-0.1275,0.1048,-1.2162
+"Primeira passada, K_F (V+AP+ML)",V_ylp4_MSWC,-0.1032,0.0842,-1.225
+"Primeira passada, K_F (V+AP+ML)",V_ylp4_Erel,0.0003,0.0009,0.3145
+"Primeira passada, K_F (V+AP+ML)",V_yhp4_E,-0.2845,0.5248,-0.5422
+"Primeira passada, K_F (V+AP+ML)",V_yhp4_MSWC,-0.2605,0.5126,-0.5081
+"Primeira passada, K_F (V+AP+ML)",V_yhp4_Erel,-0.155,0.4673,-0.3317
+"Primeira passada, K_F (V+AP+ML)",V_yhp3_E,-0.2086,0.5171,-0.4034
+"Primeira passada, K_F (V+AP+ML)",V_yhp3_MSWC,-0.1794,0.5028,-0.3567
+"Primeira passada, K_F (V+AP+ML)",V_yhp3_Erel,-0.0794,0.4589,-0.1731
+"Primeira passada, K_F (V+AP+ML)",V_yhp2_E,-0.2477,0.6007,-0.4124
+"Primeira passada, K_F (V+AP+ML)",V_yhp2_MSWC,-0.2149,0.5912,-0.3635
+"Primeira passada, K_F (V+AP+ML)",V_yhp2_Erel,-0.1187,0.5754,-0.2064
+"Primeira passada, K_F (V+AP+ML)",V_yhp1_E,-0.1523,0.488,-0.3121
+"Primeira passada, K_F (V+AP+ML)",V_yhp1_MSWC,-0.1175,0.4831,-0.2433
+"Primeira passada, K_F (V+AP+ML)",V_yhp1_Erel,-0.0243,0.4741,-0.0512
+"Primeira passada, K_F (V+AP+ML)",AP_ylp4_E,-0.2276,0.2264,-1.0053
+"Primeira passada, K_F (V+AP+ML)",AP_ylp4_MSWC,-0.2037,0.2079,-0.9801
+"Primeira passada, K_F (V+AP+ML)",AP_ylp4_Erel,-0.0003,0.0068,-0.044
+"Primeira passada, K_F (V+AP+ML)",AP_yhp4_E,-0.2365,0.5438,-0.4348
+"Primeira passada, K_F (V+AP+ML)",AP_yhp4_MSWC,-0.2124,0.5325,-0.3988
+"Primeira passada, K_F (V+AP+ML)",AP_yhp4_Erel,-0.0044,0.4657,-0.0094
+"Primeira passada, K_F (V+AP+ML)",AP_yhp3_E,-0.172,0.5985,-0.2874
+"Primeira passada, K_F (V+AP+ML)",AP_yhp3_MSWC,-0.1426,0.5931,-0.2405
+"Primeira passada, K_F (V+AP+ML)",AP_yhp3_Erel,0.0608,0.5567,0.1093
+"Primeira passada, K_F (V+AP+ML)",AP_yhp2_E,-0.1807,0.6653,-0.2717
+"Primeira passada, K_F (V+AP+ML)",AP_yhp2_MSWC,-0.1481,0.666,-0.2223
+"Primeira passada, K_F (V+AP+ML)",AP_yhp2_Erel,0.0499,0.6571,0.0759
+"Primeira passada, K_F (V+AP+ML)",AP_yhp1_E,-0.1504,0.6245,-0.2408
+"Primeira passada, K_F (V+AP+ML)",AP_yhp1_MSWC,-0.116,0.6218,-0.1866
+"Primeira passada, K_F (V+AP+ML)",AP_yhp1_Erel,0.0802,0.5929,0.1352
+"Primeira passada, K_F (V+AP+ML)",ML_ylp4_E,-0.1123,0.3355,-0.3347
+"Primeira passada, K_F (V+AP+ML)",ML_ylp4_MSWC,-0.0876,0.3353,-0.2612
+"Primeira passada, K_F (V+AP+ML)",ML_ylp4_Erel,0.0108,0.0402,0.2675
+"Primeira passada, K_F (V+AP+ML)",ML_yhp4_E,-0.5172,0.8021,-0.6447
+"Primeira passada, K_F (V+AP+ML)",ML_yhp4_MSWC,-0.4937,0.7921,-0.6233
+"Primeira passada, K_F (V+AP+ML)",ML_yhp4_Erel,-0.3745,0.7647,-0.4897
+"Primeira passada, K_F (V+AP+ML)",ML_yhp3_E,-0.3356,0.7686,-0.4366
+"Primeira passada, K_F (V+AP+ML)",ML_yhp3_MSWC,-0.3068,0.7614,-0.403
+"Primeira passada, K_F (V+AP+ML)",ML_yhp3_Erel,-0.1865,0.7155,-0.2607
+"Primeira passada, K_F (V+AP+ML)",ML_yhp2_E,-0.0722,0.6856,-0.1053
+"Primeira passada, K_F (V+AP+ML)",ML_yhp2_MSWC,-0.04,0.6869,-0.0583
+"Primeira passada, K_F (V+AP+ML)",ML_yhp2_Erel,0.0745,0.6911,0.1078
+"Primeira passada, K_F (V+AP+ML)",ML_yhp1_E,-0.0767,0.6268,-0.1224
+"Primeira passada, K_F (V+AP+ML)",ML_yhp1_MSWC,-0.0425,0.6307,-0.0674
+"Primeira passada, K_F (V+AP+ML)",ML_yhp1_Erel,0.0642,0.6712,0.0957
